@@ -5,5 +5,6 @@ def fizzbuzz
   if int % 3 == 0
     "Fizz"
   end 
-elsif 
+elsif int % 5 == 0 
+  ""
 end 
